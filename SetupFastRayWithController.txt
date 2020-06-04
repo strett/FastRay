@@ -1,0 +1,35 @@
+Open and read README.txt first then read the following
+
+Step 1:
+	Download and install Keysticks
+	https://keysticks.net/
+
+Step 2:
+	Open and run Keysticks.exe
+	If keysticks does not display on screen right click it in the Windows system tray
+	It will display as a 'K' icon
+
+	Click "Create new profile" 
+		or "Edit profile" if you have one already
+
+Step 3:
+	Click on the right trigger
+	Click Edit
+	In "key to type" select 'z'
+	Click Add
+
+	Click Apply
+	Click OK
+
+	To save the profile
+	Right click the K in Windows system tray
+	Click "Save this profile"
+
+Step 4:
+	Run bo1 or bo2
+	Run ExitAllScripts.ahk
+	Run rapidfire bo1 z.ahk OR Run rapidfire bo2 z.ahk
+
+You should be good to go
+To exit the script press Win + alt + x
+To Close keysticks right click K in windows system tray and click exit
