@@ -19,12 +19,32 @@ Step 2:
 
 
 		For Bo1:
-			config.cfg within the folder:
-			C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\players
+			Folder:
+				C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops\players
+			File:
+				config.cfg
 
-		For Bo2:
-			bindings_zm.bdg within the folder
-			C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops II\players
+		For Bo2 Steam:
+			Folder:
+				C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops II\players
+			File:
+				bindings_zm.bdg
+		For Bo2 Redacted:
+			Folder:
+				[Where you have REDACTED installed]\Call of Duty Black Ops II\players
+			File:
+				bindings_zm.bdg
+		For Bo2 Plutonium:
+			Folder:
+				[Where you have Plutonium installed]\Call of Duty Black Ops II\players
+			File:
+				bindings_zm.bdg
+			and
+			Folder:
+				C:\Users\[Your_Username]\AppData\Local\Plutonium\storage\t6\players
+			File:
+				bindings_zm.bdg
+		
 
 
 		To edit your config, open config.cfg for bo1, or bindings_zm.bdg for bo2. Edit with Notepad++ or any text editor and add the binds as shown above. 
